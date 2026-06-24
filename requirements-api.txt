@@ -1,0 +1,11 @@
+# Dépendances de l'API de production (déploiement). Versions épinglées sur
+# l'environnement d'entraînement pour garantir le rechargement du .joblib.
+fastapi==0.115.6
+uvicorn[standard]==0.34.0
+pydantic==2.10.4
+joblib==1.5.3
+pandas==3.0.3
+scikit-learn==1.9.0
+xgboost==3.2.0
+numpy==2.4.6
+scipy==1.17.1

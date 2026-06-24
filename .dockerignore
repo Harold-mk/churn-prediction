@@ -1,0 +1,9 @@
+.venv/
+.git/
+.idea/
+__pycache__/
+*.pyc
+sample.ipynb
+data/
+cahier des charges.md
+requirement.txt
